@@ -1,4 +1,4 @@
-package storage
+package com.punchlag.dontgiveup.activity.storage
 
 interface IStorage<T> {
     fun set(key: String, value: T)

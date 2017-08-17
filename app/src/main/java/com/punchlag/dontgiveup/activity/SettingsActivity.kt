@@ -1,4 +1,4 @@
-package com.punchlag.dontgiveup.activity
+package com.punchlag.dontgiveup.activity.activity
 
 import android.os.Bundle
 import android.text.format.DateFormat

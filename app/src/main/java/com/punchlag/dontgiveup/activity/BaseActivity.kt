@@ -1,4 +1,4 @@
-package com.punchlag.dontgiveup.activity
+package com.punchlag.dontgiveup.activity.activity
 
 import android.content.Context
 import android.os.Bundle
